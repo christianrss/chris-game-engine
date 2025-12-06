@@ -48,3 +48,4 @@ CmakeCache.txt
 Makefile
 CMakeFiles/
 ChrisGameEngine
+build/
