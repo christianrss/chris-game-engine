@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+glew_build/
+glfw_build/
+lib/
+cmake_install.cmake
+CmakeCache.txt
+Makefile
+CMakeFiles/
+ChrisGameEngine
