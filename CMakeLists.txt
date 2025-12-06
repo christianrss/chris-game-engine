@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project (ChrisGameEngine)
 
 set(PROJECT_SOURCE_FILES
-    source/main.cpp
+    source/snake.cpp
 )
 
 include_directories(source)
