@@ -5,8 +5,10 @@ project (Engine)
 set(PROJECT_SOURCE_FILES
     source/Engine.h
     source/Engine.cpp
-    Source/Application.h
-    Source/Application.cpp
+    source/Application.h
+    source/Application.cpp
+    source/input/InputManager.h
+    source/input/InputManager.cpp
 )
 
 include_directories(source)
